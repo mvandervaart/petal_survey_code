@@ -15,3 +15,5 @@ R Core Team. R: a language and environment for statistical computing. Vienna, Au
 https://www.R-project.org/
 
 s5_network_plot.R is based on: Schweinberger, Martin. 2022. Network Analysis using R. Brisbane: The University of Queensland. url: https://ladal.edu.au/net.html 
+
+Copyright, 2024, University of Oxford. All rights reserved. See license.md. 
