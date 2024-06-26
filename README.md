@@ -27,7 +27,7 @@ https://neuroimaging.paediatrics.ox.ac.uk
 
 ## HOW TO CITE THIS MATERIAL
 
-Please cite this material as: Baxter, L., Hauck, A., & van der Vaart, M. (2024). mvandervaart/petal_survey_code: v1.0.0 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.12549260
+Please cite this material as: Baxter, L., Hauck, A., & van der Vaart, M. (2024). mvandervaart/petal_survey_code: v1.0.0 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.12549259
 
 ## COPYRIGHT & LICENSE
 
